@@ -1,0 +1,6 @@
+{
+  "name": "NGAT Ethiopia",
+  "description": "Comprehensive Ethiopian National Graduate Admission Test (NGAT/GAT) preparation app with 80-level journey, 950 questions across 11 chapters, 3,362 vocabulary entries across 244 clusters, and 25 GAT trap patterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
